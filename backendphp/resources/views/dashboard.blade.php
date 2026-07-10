@@ -156,7 +156,7 @@
         <h2 class="text-3xl font-extrabold tracking-tight">
             Halo,
             <span class="bg-gradient-to-r from-violet-300 via-sky-300 to-emerald-300 bg-clip-text text-transparent">{{ Auth::user()->name }}</span>
-            👋
+            
         </h2>
         <p class="text-slate-400 mt-1">Bagikan sesuatu kepada semua orang.</p>
     </div>
@@ -185,7 +185,7 @@
         <button
             @click="open=!open"
             class="w-full btn-primary text-white py-3 rounded-2xl font-bold transition">
-            ✍️ Update Status
+             Post
         </button>
 
         <div
