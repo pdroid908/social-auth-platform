@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#0b0f1a">
-    <title>NetizenCom</title>
+    <title>ReadSpace</title>
 
     <script src="https://cdn.tailwindcss.com"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
@@ -102,7 +102,7 @@
                     </div>
                     <div class="hidden sm:block">
                         <h1 class="text-lg font-extrabold tracking-tight bg-gradient-to-r from-violet-300 via-sky-300 to-emerald-300 bg-clip-text text-transparent">
-                            NetizenCom
+                            ReadSpace
                         </h1>
                         <p class="text-xs text-slate-400">Connect • Share • Inspire</p>
                     </div>
